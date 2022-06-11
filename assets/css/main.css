@@ -2114,6 +2114,9 @@ input, select, textarea {
 			margin: 0 0 1em 1.5em;
 			top: 0.25em;
 		}
+		.float-left-child {
+		  float: left;
+		}
 
 		.image.left, .image.right {
 			max-width: 40%;
